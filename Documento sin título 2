@@ -1,0 +1,112 @@
+<!DOCTYPE.html>
+<html>
+<head>
+	<meta charset=UTF-8>
+	<title> a web page</title>
+</head>
+<body>
+	<header id="encabezado">
+		<h1 id="logo"> 
+		Logo
+			</h1>
+			<nav id="navegacion">
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="contacto.html">Contacto</a></li>
+				</ul>
+					</nav>
+</header>
+<table>
+<tr> 
+<td> enter your domain name and hit enter  Search </td>
+</tr>
+</table>
+
+<section>
+	<title> Some text </title>
+	<p align="left"> <pre> A <b> paragraph</b> of text witch an 
+	<br>A <i> second </i> <u>raw </u> of <del> text </del> with a </pre> </p align="left"></main></br>
+
+</section>
+
+<section>
+	<title> Some text </title>
+	<p align="left"> <pre> A <b> paragraph</b> of text witch an 
+	<br>A <i> second </i> <u>raw </u> of <del> text </del> with a </pre> </p align="left"></main></br>
+
+</section>
+	
+
+
+<section>
+	<title> Some text </title>
+	<p align="left"> <pre> A <b> paragraph</b> of text witch an 
+	<br>A <i> second </i> <u>raw </u> of <del> text </del> with a </pre> </p align="left"></main></br>
+
+</section>
+
+<section>
+	<title> Some text </title>
+	<p align="left"> <pre> A <b> paragraph</b> of text witch an 
+	<br>A <i> second </i> <u>raw </u> of <del> text </del> with a </pre> </p align="left"></main></br>
+
+</section>
+
+<h3> Un subtitulo </h3>
+<br> algo que decir algo que decir</br>
+
+<ul>
+<li> <strong>Some text</strong> </li>
+<li> <strong>Some text</strong> </li>
+<li> <strong>Some text</strong> </li>
+<li> <strong>Some text</strong> </li>
+<li> <strong>Some text</strong> </li>
+<li> <strong>Some text</strong> </li>
+
+<h3> Un subtitulo </h3>
+<br> algo que decir algo que decir</br> <br>
+<section> 
+<p> Some tex </p>
+<p>$95</p>
+<p> Some text</p>
+<p> Some Text</p>
+<p> Some text </p>
+<p> Some text </p>
+<p> Boton</p>
+<br></br>
+</section>
+
+
+
+<section> 
+<p> Some tex </p>
+<p>$95</p>
+<p> Some text</p>
+<p> Some Text</p>
+<p> Some text </p>
+<p> Some text </p>
+<p> Boton</p>
+<br></br>
+</section>
+
+<section> 
+<p> Some tex </p>
+<p>$95</p>
+<p> Some text</p>
+<p> Some Text</p>
+<p> Some text </p>
+<p> Some text </p>
+<p> Boton</p>
+<br></br>
+</section>
+<br></br>
+
+<footer> Some text</footer>
+<footer> Home </footer>
+<footer> Contac </footer>
+
+
+</body>
+
+</html>
+
